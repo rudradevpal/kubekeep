@@ -47,11 +47,11 @@ $ crontab -e
 
 ## Built With
 
-* [Python 2.7.x](http://www.dropwizard.io/1.0.2/docs/)
+* [Python 2.7.x](https://www.python.org/)
 
 ## Versioning
 
-We use [GitHub]() for versioning. For the versions available, see the [releases on this repository](https://github.com/rudradevpal/kubekeep/releases). 
+We use [GitHub](https://github.com/) for versioning. For the versions available, see the [releases on this repository](https://github.com/rudradevpal/kubekeep/releases). 
 
 ## Authors
 
