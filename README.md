@@ -47,7 +47,7 @@ $ crontab -e
 
 ## Built With
 
-* [Python 2.7.x](https://www.python.org/)
+* [Python 2.7.x](https://docs.python.org/2/)
 
 ## Versioning
 
