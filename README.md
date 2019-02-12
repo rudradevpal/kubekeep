@@ -51,7 +51,7 @@ $ crontab -e
 
 ## Versioning
 
-We use [GitHub]() for versioning. For the versions available, see the [releases on this repository](https://github.com/rudradevpal/kube-keep/releases). 
+We use [GitHub]() for versioning. For the versions available, see the [releases on this repository](https://github.com/rudradevpal/kubekeep/releases). 
 
 ## Authors
 
