@@ -38,9 +38,9 @@ Below are the procedure to schedule auto Backup
 
 ### Scheduling Backup
 1.    Go to the crontab file
-    ```shell
-    crontab -e
-    ```
+```shell
+crontab -e
+```
 2.    Schedule main.py in crontab (Check [this guide for crontab](http://adminschoice.com/crontab-quick-reference))
 3.    Now you are done your backup will be stored in the gitlab you have given.
 
